@@ -3,6 +3,7 @@ layout: home
 title: Haylib
 ---
 
-## Haylib
+## Haylib: Armenian language resources
 
-Haylib
+Hello and welcome! This is Haylib, a language library for everyone who's trying to learn Armenian.
+
