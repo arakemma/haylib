@@ -8,7 +8,7 @@ title: Armenian language videos & YouTube channels
 <h2> In Armenian with Armenian subtitles</h2>
 These work great if you're just starting out and need to polish your listening skills.
 
-<h3><a href="https://www.youtube.com/watch?v=UCC0QZKKPow" target="_blank">City of Yerevan | Easy Armenian 1</a><h3>
+<h3><a href="https://www.youtube.com/watch?v=UCC0QZKKPow" target="_blank">City of Yerevan | Easy Armenian 1</a></h3>
 Length: 6:33. People of Yerevan talk about things they love about their city.
   
 <h2>In Armenian, without subtitles</h2>
