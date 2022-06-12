@@ -13,6 +13,6 @@ Length: 6:33. People of Yerevan talk about things they love about their city.
   
 <h2>In Armenian, without subtitles</h2>
 
-<h3><a href="https://www.youtube.com/c/CivilNetTV/videos" target="_blank">CIVILNET</a></h2>
+<h3><a href="https://www.youtube.com/c/CivilNetTV/videos" target="_blank">CIVILNET</a></h3>
   
-<h3><a href="https://www.youtube.com/user/HetqTV/videos" target="_blank">HetqTV</a></h2>
+<h3><a href="https://www.youtube.com/user/HetqTV/videos" target="_blank">HetqTV</a></h3>
