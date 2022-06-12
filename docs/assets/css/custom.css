@@ -30,7 +30,11 @@ header ul {
 }
 
 header ul li {
- padding-bottom: .5em;
+ padding-bottom: .6em;
+}
+
+header ul li a i {
+ padding-right: .4em;
 }
 
 .language-selection span {
