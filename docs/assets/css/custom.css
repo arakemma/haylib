@@ -48,5 +48,6 @@ h1 {
 h2 img {
  max-width: 28px;
  height: auto;
+ float: left;
  padding-right: .5em;
 }
