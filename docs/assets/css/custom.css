@@ -13,3 +13,8 @@ header {
   width: 30%;
   float: left;
 }
+
+a {
+ text-decoration: none;
+ color: #0033a0;
+}
