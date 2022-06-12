@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Armenian language movies & TV shows
+title: Movies & TV shows in Armenian
 ---
 
-<h1>Armenian movies & TV shows</h1>
+<h1>Movies & TV shows in Armenian</h1>
 
-<h2>In Armenian with Armenian subtitles</h2>
+<h2>With Armenian subtitles</h2>
 These work great if you're just starting out and need to polish your listening skills.
 
 <h3><a href="https://armtv.org/429-arryuts-arkan.html" target="_blank">Lion King (1994)</a></h3>
@@ -29,4 +29,4 @@ Length: 1h 26m.
 <h3><a href="https://gisher.org/video/molorak-612-episode-1.html" target="_blank">Manukneri Molorak</a></h3>
 A kids TV show. Episode length: 23 minutes.
 
-<h2>In Armenian, without subtitles</h2>
+<h2>Without subtitles</h2>
