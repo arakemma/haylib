@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Movies & TV shows in Armenian
 ---
 
