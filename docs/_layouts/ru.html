@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Haylib</title>
+    <meta property="og:title" content="Haylib" />
+    <meta property="og:locale" content="ru_RU" />
+    <script src="https://kit.fontawesome.com/4f37dd4334.js" crossorigin="anonymous"></script>
+    <meta http-equiv='cache-control' content='no-cache'> 
+    <meta http-equiv='expires' content='0'> 
+    <meta http-equiv='pragma' content='no-cache'>
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+    <!--<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">-->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+   <div class="wrapper">
+      <header id="masthead">        
+       <nav>
+         <span class="title"><a href="/"><img src="/assets/logo.png">Haylib</a></span>
+          <ul>
+            <li><a href="/alphabet"><span class="i">🧑‍🎓</span>Алфавит</a></li>
+            <li><a href="/books"><span class="i">📚</span>Книги</a></li>
+            <li><a href="/movies"><span class="i">📺</span>Фильмы и сериалы</a></li>
+            <li><a href="/videos"><span class="i">📹</span>Видео</a></li>
+            <li><a href="/music"><span class="i">🎶</span>Музыка</a></li>
+            <li><a href="/apps"><span class="i">📱</span>Приложения и сайты</a></li>
+            <li><a href="/vocabulary"><span class="i">📓</span>Словарный запас</a></li>
+            <li><a href="/dialects"><span class="i">💬</span>Диалекты</a></li>
+            <li><a href="/trivia"><span class="i">🪄</span>Прочие факты</a></li>
+          </ul>
+         <p class="language-selection">
+           <span><a href="/">English</a></span>
+           <span><a href="/fr">Français</a></span>
+         </p>
+        </nav>
+      </header>
+     <div class="main">
+      <section id="homepage">
+          
+      {{ content }}
+        
+      </section>
+    </div>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
