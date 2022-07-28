@@ -20,6 +20,10 @@ header {
   float: left;
 }
 
+.main {
+  width: 70%;
+}
+
 header .i {
  font-family: "Noto Emoji", sans-serif;
  margin-right: 10px;
